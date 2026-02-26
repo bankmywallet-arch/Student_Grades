@@ -2,7 +2,7 @@ from flet import *
 import requests
 import time
 
-DB_URL = "https://bank-my-wallet-default-rtdb.asia-southeast1.firebasedatabase.app/student_grades.json"
+DB_URL = "FIREBASE_LINK"
 
 
 
