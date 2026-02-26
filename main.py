@@ -2,7 +2,7 @@ from flet import *
 import requests
 import time
 
-DB_URL = "FIREBASE_LINK"
+DB_URL = "FIREBASE_LIN"
 
 
 
