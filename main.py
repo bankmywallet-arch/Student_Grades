@@ -8,7 +8,7 @@ DB_URL = "FIREBASE_LINK"
 
 
 def main(page: Page):
-    page.scroll = 'auto'
+    page.scroll = 'auto'gfh
     page.theme_mode = ThemeMode.LIGHT
 
     
